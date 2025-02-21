@@ -13,17 +13,13 @@ Technologies Used- Python, TensorFlow, Keras
 Model Performance-
 The final model achieved a classification accuracy of 98.5% on the test dataset, which highlights the model's effectiveness in digit recognition tasks.
 
-How to Run This Project-
+## How to Run This Project
 Instructions on how to clone the repo, install dependencies, and run the project:
-
-bash
-Copy
-git clone https://github.com/yourusername/projectname.git
-cd projectname
+```bash
+git clone https://github.com/saivivek55/Digit-Classifier--Deep-Learning-with-MNIST.git
+cd Digit-Classifier--Deep-Learning-with-MNIST
 pip install -r requirements.txt
 python main.py
-Contribution
-Contributions are welcome! If you have suggestions to improve this project, please fork the repo and submit a pull request.
 
-License
+License-                            
 This project is licensed under the MIT License - see the LICENSE.md file for details.
