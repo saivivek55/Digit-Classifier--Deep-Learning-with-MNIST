@@ -4,8 +4,7 @@ This project focuses on building a deep learning model using an Artificial Neura
                                       
 Features-                                                                                                                                                                                                          
 Data Preprocessing: The MNIST dataset images are preprocessed to fit the model's input requirements.                                                                                                                     
-Model Building: An ANN model with multiple layers is constructed using TensorFlow and Keras.                                                                                        
-Training: The model is trained with a specified number of epochs to optimize accuracy.                                                                                                         
+Model Building: An ANN model with multiple layers is constructed using TensorFlow and Keras.                                                                                                                                                                                                                                         
 Evaluation: Performance of the model is evaluated using accuracy metrics on a test set.                                                                                                     
                                              
 Technologies Used- Python, TensorFlow, Keras                                                              
@@ -20,7 +19,7 @@ git clone https://github.com/saivivek55/Digit-Classifier--Deep-Learning-with-MNI
 cd Digit-Classifier--Deep-Learning-with-MNIST
 pip install -r requirements.txt
 python main.py
-```bash
+
 
 License-                                                                                                                                                                    
 This project is licensed under the MIT License - see the LICENSE.md file for details.
