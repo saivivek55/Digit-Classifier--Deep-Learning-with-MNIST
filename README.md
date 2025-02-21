@@ -1,4 +1,4 @@
-##Project Title: Digit Classifier: Deep Learning with MNIST                                                                            
+## Project Title: Digit Classifier: Deep Learning with MNIST                                                                            
 Project Overview-                                                                     
 This project focuses on building a deep learning model using an Artificial Neural Network (ANN) to accurately classify handwritten digits from the MNIST dataset. The objective is to demonstrate the capability of neural networks in recognizing patterns and digits from image data.
                                       
