@@ -19,7 +19,7 @@ git clone https://github.com/saivivek55/Digit-Classifier--Deep-Learning-with-MNI
 cd Digit-Classifier--Deep-Learning-with-MNIST
 pip install -r requirements.txt
 python main.py
-
+```
 
 License-                                                                                                                                                                    
 This project is licensed under the MIT License - see the LICENSE.md file for details.
