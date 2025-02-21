@@ -21,5 +21,7 @@ pip install -r requirements.txt
 python main.py
 ```
 
-License-                                                                                                                                                                    
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+## License
+This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
+
+
